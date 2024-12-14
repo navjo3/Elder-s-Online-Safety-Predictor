@@ -1,0 +1,53 @@
+Age,Gender,Education Level,Tech Savviness,Hours Spent Online Daily,Primary Device Used,Social Media Usage,Email Awareness,Password Practices,Two-Factor Authentication (2FA),Scam History,Scam Type Encountered,Awareness Programs Attended,Confidence in Identifying Scams,Recent Scam Attempts,Safety Score,Online Safety
+61,Male,College,6,5.2,Tablet,Yes,7,2,No,No,None,No,9,6,37.66,Safe
+85,Female,High School,5,2.7,Tablet,Yes,7,4,Yes,Yes,Phishing,No,3,3,28.26,Not Safe
+65,Female,Graduate,6,9.2,Smartphone,Yes,8,4,No,No,None,No,6,6,41.56,Safe
+82,Female,Graduate,6,1.1,Laptop,Yes,5,3,No,Yes,,No,5,5,25.38,Not Safe
+80,Female,Graduate,6,,Laptop,Yes,6,2,No,No,Phishing,No,2,10,25.84,Not Safe
+60,Male,Graduate,,2.7,Laptop,Yes,3,3,Yes,No,None,No,6,10,32.86,Safe
+6,Male,High School,3,1.2,Tablet,Yes,9,1,No,Yes,None,No,3,0,17.56,Not Safe
+83,Female,High School,4,8.7,Smartphone,No,6,4,No,Yes,None,No,1,1,24.66,Not Safe
+72,Male,Graduate,1,6.1,Laptop,Yes,3,1,Yes,No,None,No,8,1,24.98,Not Safe
+60,Male,High School,10,9,Smartphone,No,1,4,No,No,Online Shopping Scam,No,7,5,43.1,Safe
+79,Female,High School,1,5.2,Tablet,Yes,2,2,No,Yes,,No,10,2,19.66,Not Safe
+83,Female,High School,7,7.9,Tablet,No,3,4,No,Yes,,No,10,6,37.82,Safe
+72,Female,College,1,1.7,Laptop,Yes,6,3,No,Yes,Phishing,Yes,2,7,14.46,Not Safe
+72,Female,College,,6.3,Smartphone,Yes,5,5,No,No,None,No,10,0,42.24,Safe
+65,Male,Graduate,6,9.2,Laptop,No,6,1,No,No,None,Yes,2,27,31.76,Moderate
+68,Female,Graduate,4,5.3,Laptop,No,3,5,No,No,Phishing,No,7,9,32.14,Moderate
+84,Female,Graduate,5,4.9,Smartphone,Yes,8,4,No,Yes,None,No,2,7,27.32,Not Safe
+78,Female,High School,10,7.3,Smartphone,Yes,10,4,No,No,None,Yes,3,7,47.44,Safe
+71,Female,College,7,0.9,Laptop,Yes,6,1,No,No,Phishing,Yes,4,10,29.22,Moderate
+88,Male,Graduate,5,7.3,Tablet,No,1,4,Yes,No,None,No,5,8,32.84,Moderate
+8,Female,Graduate,9,3.2,Smartphone,Yes,4,2,No,No,Phishing,No,9,9,39.36,Safe
+67,Female,College,7,5.2,Tablet,No,5,4,No,No,Phishing,No,2,0,32.26,Moderate
+61,Male,College,1,8.8,Laptop,No,6,2,Yes,No,None,Yes,1,4,24.44,Not Safe
+82,Male,Graduate,6,2.3,Laptop,Yes,1,4,Yes,No,Online Shopping Scam,No,1,1,26.04,Not Safe
+74,Male,College,3,6.6,Tablet,Yes,4,1,No,No,None,No,10,9,29.48,Moderate
+73,Female,College,7,,Smartphone,No,6,1,Yes,Yes,Phishing,Yes,3,4,30.38,Moderate
+88,Female,Graduate,8,8,Laptop,Yes,3,1,No,No,None,No,4,8,32.7,Moderate
+62,Male,High School,,5.8,Laptop,Yes,4,2,Yes,Yes,Fake Tech Support,No,2,7,33.54,Safe
+79,Female,College,6,3.2,Tablet,No,1,3,No,No,None,No,6,4,27.96,Not Safe
+60,Female,College,7,2.2,Laptop,Yes,10,5,No,No,None,Yes,8,7,45.06,Safe
+88,Female,College,3,,Smartphone,No,4,1,No,No,None,No,2,4,18.84,Not Safe
+60,Male,High School,10,6.7,Smartphone,Yes,1,3,Yes,Yes,Online Shopping Scam,Yes,3,2,35.46,Safe
+65,Male,College,1,,Smartphone,Yes,3,1,Yes,No,None,No,1,10,17.16,Not Safe
+66,Male,Graduate,,4.2,Smartphone,Yes,6,4,Yes,Yes,None,No,1,2,36.56,Safe
+64,Male,College,8,3.1,Smartphone,No,10,1,No,No,,Yes,1,7,33.38,Safe
+68,Female,Graduate,8,3.1,Laptop,Yes,7,4,Yes,No,Phishing,Yes,5,9,42.98,Safe
+88,Male,Graduate,6,,Laptop,Yes,2,5,Yes,No,None,Yes,10,7,46.2,Safe
+73,Female,Graduate,8,8.9,Smartphone,Yes,10,1,No,Yes,None,No,6,10,38.82,Safe
+75,Female,Graduate,1,1.1,Tablet,Yes,4,1,No,No,None,Yes,3,0,14.48,Not Safe
+86,Female,Graduate,4,6.2,Laptop,No,8,2,No,No,None,No,5,10,30.96,Moderate
+64,Female,Graduate,6,5.4,Laptop,Yes,4,5,No,Yes,None,No,3,1,28.42,Not Safe
+67,Female,Graduate,8,2.2,Laptop,Yes,10,3,Yes,No,None,No,4,1,41.06,Safe
+72,Female,College,1,4.9,Smartphone,Yes,5,4,No,Yes,None,Yes,5,0,21.12,Not Safe
+72,Female,High School,4,2.3,Laptop,No,6,5,No,No,None,No,7,3,32.24,Moderate
+72,Male,High School,7,6.9,Smartphone,Yes,8,3,No,Yes,None,Yes,3,1,33.62,Safe
+61,Male,College,10,2.1,Smartphone,Yes,3,1,Yes,Yes,None,Yes,8,2,36.98,Safe
+81,Female,Graduate,7,5.2,Smartphone,No,9,3,No,No,None,No,1,5,33.86,Safe
+60,Male,Graduate,1,5.3,Laptop,Yes,7,4,No,Yes,None,Yes,2,10,20.14,Not Safe
+63,Female,Graduate,6,4.7,Tablet,No,10,2,No,Yes,None,No,2,5,28.16,Not Safe
+72,Female,High School,,5.1,Smartphone,Yes,10,2,No,No,,Yes,4,10,27.88,Not Safe
+61,Male,College,10,2.1,Smartphone,Yes,3,1,Yes,Yes,None,Yes,8,2,36.98,Safe
+65,Male,Graduate,6,9.2,Laptop,No,6,1,No,No,None,Yes,2,9,31.76,Moderate

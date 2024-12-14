@@ -1,0 +1,52 @@
+Age,Gender,Education Level,Tech Savviness,Hours Spent Online Daily,Primary Device Used,Social Media Usage,Email Awareness,Password Practices,Two-Factor Authentication (2FA),Scam History,Scam Type Encountered,Awareness Programs Attended,Confidence in Identifying Scams,Recent Scam Attempts,Online Safety
+61,Male,College,0.5555555555555556,5.2,Tablet,Yes,0.6666666666666665,0.25,No,No,,No,9,6.0,Safe
+85,Female,High School,0.4444444444444445,2.7,Tablet,Yes,0.6666666666666665,0.75,Yes,Yes,Phishing,No,3,3.0,Not Safe
+65,Female,Graduate,0.5555555555555556,9.2,Smartphone,Yes,0.7777777777777777,0.75,No,No,,No,6,6.0,Safe
+82,Female,Graduate,0.5555555555555556,1.1,Laptop,Yes,0.4444444444444445,0.5,No,Yes,,No,5,5.0,Not Safe
+80,Female,Graduate,0.5555555555555556,5.019148936170212,Laptop,Yes,0.5555555555555556,0.25,No,No,Phishing,No,2,10.0,Not Safe
+60,Male,Graduate,0.508274231678487,2.7,Laptop,Yes,0.2222222222222222,0.5,Yes,No,,No,6,10.0,Safe
+60,Male,High School,0.2222222222222222,1.2,Tablet,Yes,0.8888888888888888,0.0,No,Yes,,No,3,0.0,Not Safe
+83,Female,High School,0.3333333333333333,8.7,Smartphone,No,0.5555555555555556,0.75,No,Yes,,No,1,1.0,Not Safe
+72,Male,Graduate,0.0,6.1,Laptop,Yes,0.2222222222222222,0.0,Yes,No,,No,8,1.0,Not Safe
+60,Male,High School,1.0,9.0,Smartphone,No,0.0,0.75,No,No,Online Shopping Scam,No,7,5.0,Safe
+79,Female,High School,0.0,5.2,Tablet,Yes,0.1111111111111111,0.25,No,Yes,,No,10,2.0,Not Safe
+83,Female,High School,0.6666666666666665,7.9,Tablet,No,0.2222222222222222,0.75,No,Yes,,No,10,6.0,Safe
+72,Female,College,0.0,1.7,Laptop,Yes,0.5555555555555556,0.5,No,Yes,Phishing,Yes,2,7.0,Not Safe
+72,Female,College,0.508274231678487,6.3,Smartphone,Yes,0.4444444444444445,1.0,No,No,,No,10,0.0,Safe
+65,Male,Graduate,0.5555555555555556,9.2,Laptop,No,0.5555555555555556,0.0,No,No,,Yes,2,5.705882352941177,Moderate
+68,Female,Graduate,0.3333333333333333,5.3,Laptop,No,0.2222222222222222,1.0,No,No,Phishing,No,7,9.0,Moderate
+84,Female,Graduate,0.4444444444444445,4.9,Smartphone,Yes,0.7777777777777777,0.75,No,Yes,,No,2,7.0,Not Safe
+78,Female,High School,1.0,7.3,Smartphone,Yes,1.0,0.75,No,No,,Yes,3,7.0,Safe
+71,Female,College,0.6666666666666665,0.9,Laptop,Yes,0.5555555555555556,0.0,No,No,Phishing,Yes,4,10.0,Moderate
+88,Male,Graduate,0.4444444444444445,7.3,Tablet,No,0.0,0.75,Yes,No,,No,5,8.0,Moderate
+60,Female,Graduate,0.8888888888888888,3.2,Smartphone,Yes,0.3333333333333333,0.25,No,No,Phishing,No,9,9.0,Safe
+67,Female,College,0.6666666666666665,5.2,Tablet,No,0.4444444444444445,0.75,No,No,Phishing,No,2,0.0,Moderate
+61,Male,College,0.0,8.8,Laptop,No,0.5555555555555556,0.25,Yes,No,,Yes,1,4.0,Not Safe
+82,Male,Graduate,0.5555555555555556,2.3,Laptop,Yes,0.0,0.75,Yes,No,Online Shopping Scam,No,1,1.0,Not Safe
+74,Male,College,0.2222222222222222,6.6,Tablet,Yes,0.3333333333333333,0.0,No,No,,No,10,9.0,Moderate
+73,Female,College,0.6666666666666665,5.019148936170212,Smartphone,No,0.5555555555555556,0.0,Yes,Yes,Phishing,Yes,3,4.0,Moderate
+88,Female,Graduate,0.7777777777777777,8.0,Laptop,Yes,0.2222222222222222,0.0,No,No,,No,4,8.0,Moderate
+62,Male,High School,0.508274231678487,5.8,Laptop,Yes,0.3333333333333333,0.25,Yes,Yes,Fake Tech Support,No,2,7.0,Safe
+79,Female,College,0.5555555555555556,3.2,Tablet,No,0.0,0.5,No,No,,No,6,4.0,Not Safe
+60,Female,College,0.6666666666666665,2.2,Laptop,Yes,1.0,1.0,No,No,,Yes,8,7.0,Safe
+88,Female,College,0.2222222222222222,5.019148936170212,Smartphone,No,0.3333333333333333,0.0,No,No,,No,2,4.0,Not Safe
+60,Male,High School,1.0,6.7,Smartphone,Yes,0.0,0.5,Yes,Yes,Online Shopping Scam,Yes,3,2.0,Safe
+65,Male,College,0.0,5.019148936170212,Smartphone,Yes,0.2222222222222222,0.0,Yes,No,,No,1,10.0,Not Safe
+66,Male,Graduate,0.508274231678487,4.2,Smartphone,Yes,0.5555555555555556,0.75,Yes,Yes,,No,1,2.0,Safe
+64,Male,College,0.7777777777777777,3.1,Smartphone,No,1.0,0.0,No,No,,Yes,1,7.0,Safe
+68,Female,Graduate,0.7777777777777777,3.1,Laptop,Yes,0.6666666666666665,0.75,Yes,No,Phishing,Yes,5,9.0,Safe
+88,Male,Graduate,0.5555555555555556,5.019148936170212,Laptop,Yes,0.1111111111111111,1.0,Yes,No,,Yes,10,7.0,Safe
+73,Female,Graduate,0.7777777777777777,8.9,Smartphone,Yes,1.0,0.0,No,Yes,,No,6,10.0,Safe
+75,Female,Graduate,0.0,1.1,Tablet,Yes,0.3333333333333333,0.0,No,No,,Yes,3,0.0,Not Safe
+86,Female,Graduate,0.3333333333333333,6.2,Laptop,No,0.7777777777777777,0.25,No,No,,No,5,10.0,Moderate
+64,Female,Graduate,0.5555555555555556,5.4,Laptop,Yes,0.3333333333333333,1.0,No,Yes,,No,3,1.0,Not Safe
+67,Female,Graduate,0.7777777777777777,2.2,Laptop,Yes,1.0,0.5,Yes,No,,No,4,1.0,Safe
+72,Female,College,0.0,4.9,Smartphone,Yes,0.4444444444444445,0.75,No,Yes,,Yes,5,0.0,Not Safe
+72,Female,High School,0.3333333333333333,2.3,Laptop,No,0.5555555555555556,1.0,No,No,,No,7,3.0,Moderate
+72,Male,High School,0.6666666666666665,6.9,Smartphone,Yes,0.7777777777777777,0.5,No,Yes,,Yes,3,1.0,Safe
+61,Male,College,1.0,2.1,Smartphone,Yes,0.2222222222222222,0.0,Yes,Yes,,Yes,8,2.0,Safe
+81,Female,Graduate,0.6666666666666665,5.2,Smartphone,No,0.8888888888888888,0.5,No,No,,No,1,5.0,Safe
+60,Male,Graduate,0.0,5.3,Laptop,Yes,0.6666666666666665,0.75,No,Yes,,Yes,2,10.0,Not Safe
+63,Female,Graduate,0.5555555555555556,4.7,Tablet,No,1.0,0.25,No,Yes,,No,2,5.0,Not Safe
+72,Female,High School,0.508274231678487,5.1,Smartphone,Yes,1.0,0.25,No,No,,Yes,4,10.0,Not Safe
+65,Male,Graduate,0.5555555555555556,9.2,Laptop,No,0.5555555555555556,0.0,No,No,,Yes,2,9.0,Moderate
